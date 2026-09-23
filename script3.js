@@ -55,4 +55,5 @@ function Agechecker(Age){
     }
     
 }
-Agechecker(24);
+let addAge=prompt("insert  your age:");
+Agechecker(addAge);
